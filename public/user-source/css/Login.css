@@ -1,0 +1,175 @@
+/* Reset dan Font */
+* {
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Body */
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f3f3f3;
+}
+
+/* Container */
+.container {
+    display: flex;
+    background-color: #fff;
+    width: 800px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+/* Form Section */
+.form-section {
+    padding: 40px;
+    width: 50%;
+}
+
+.form-section h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.form-section form {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-section input[type="text"],
+.form-section input[type="email"],
+.form-section input[type="password"],
+.form-section input[type="tel"] {
+    padding: 12px;
+    margin: 10px 0;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100%;
+}
+
+.form-section label {
+    font-size: 14px;
+    margin-bottom: 5px;
+    color: #555;
+}
+
+.form-section button {
+    background-color: #e64a19;
+    color: #fff;
+    font-size: 16px;
+    padding: 12px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.form-section button:hover {
+    background-color: #d84315;
+}
+
+.form-section .link {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 14px;
+    color: #555;
+}
+
+.form-section .link a {
+    color: #e64a19;
+    text-decoration: none;
+}
+
+.form-section .link a:hover {
+    text-decoration: underline;
+}
+
+/* Image Section */
+.image-section {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+.image-section img {
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.brand-logo h1 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
+
+.form-section .sign-up-link {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 14px;
+    color: #555;
+}
+
+.form-section .sign-up-link a {
+    color: #ff5722;
+    text-decoration: none;
+}
+
+.form-section .sign-up-link a:hover {
+    text-decoration: underline;
+}
+
+.form-section .login-link {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 14px;
+    color: #555;
+}
+
+.form-section .login-link a {
+    color: #e64a19;
+    text-decoration: none;
+}
+
+.form-section .login-link a:hover {
+    text-decoration: underline;
+}
+
+.visit-shop {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.visit-shop p {
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.btn-shop {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+}
+
+.btn-shop:hover {
+    background-color: #0056b3;
+    text-decoration: none;
+}
