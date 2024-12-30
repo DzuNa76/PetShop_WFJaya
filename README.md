@@ -1,7 +1,3 @@
-Berikut adalah contoh bagaimana kamu bisa memperbarui file README untuk repositori **PetShop_WFJaya** dengan menambahkan link hasil dan foto proyek:
-
----
-
 ## PetShop_WFJaya
 
 **PetShop_WFJaya** adalah sebuah proyek berbasis Laravel yang bertujuan untuk membangun sebuah toko online khusus untuk hewan peliharaan. Proyek ini mencakup berbagai fitur yang memudahkan pengguna dalam mencari, membeli, dan mengelola kebutuhan hewan peliharaan mereka.
