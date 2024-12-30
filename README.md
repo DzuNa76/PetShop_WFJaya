@@ -27,7 +27,7 @@
    ```
 3. **Konfigurasi environment**:
    Salin file `.env.example` menjadi `.env` dan sesuaikan konfigurasi basis data.
-4. **Impor file basis data **:
+4. **Impor file basis data**:
    `db_laravel_adminwf.sql`
 5. **Jalankan server lokal**:
    ```sh
