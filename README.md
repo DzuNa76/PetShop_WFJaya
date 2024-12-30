@@ -42,7 +42,6 @@ Kami menyambut kontribusi dari siapa saja. Silakan buat pull request atau buka i
 
 ---
 
-Pastikan untuk mengganti URL tangkapan layar dengan URL yang sesuai dari proyekmu. Jika ada yang ingin ditambahkan atau disesuaikan, jangan ragu untuk memberitahu saya! 😊
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
